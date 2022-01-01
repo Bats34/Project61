@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    
+};
+#sec1 {
+    background-color: deeppink ;
+}
+#sec2 {
+    background: #702de3;
+    color: aliceblue;
+}
+#pict {
+    width: 600px;
+    height: 600px;
+}
+#pictut {
+    width: 600px;
+    height: 600px;
+}
+#picture {
+    width: 600px;
+    height: 600px;
+}
+.line {
+    width: 70px;
+    height: 8x;
+    color: aliceblue;
+}
+h3 {
+    font-size: 25px;
+}
+h2 {
+  font-size: 30px;
+}
+h1 {
+    font-size:40px;
+}
